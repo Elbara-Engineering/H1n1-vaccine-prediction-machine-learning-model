@@ -1,8 +1,18 @@
 <h1>Overall</h1>
-Beginning in spring 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.A vaccine for the H1N1 flu virus became publicly available in October 2009. In late 2009 and early 2010, the United States conducted the National 2009 H1N1 Flu Survey. This phone survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. A better understanding of how these characteristics are associated with personal vaccination patterns can provide guidance for future public health efforts.In this project, we will take a look at vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity."Influenza virus vaccine, H1N1 is used to prevent infection caused by the influenza A (H1N1) 2009 virus. The vaccine works by causing your body to produce its own protection (antibodies) against the disease. It is also known as a "flu shot".
-Data
-- Data Description
 
+Beginning in spring 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.
+
+
+A vaccine for the H1N1 flu virus became publicly available in October 2009. In late 2009 and early 2010, the United States conducted the National 2009 H1N1 Flu Survey. This phone survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. A better understanding of how these characteristics are associated with personal vaccination patterns can provide guidance for future public health efforts.
+
+
+In this project, we will take a look at vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity."
+
+
+Influenza virus vaccine, H1N1 is used to prevent infection caused by the influenza A (H1N1) 2009 virus. The vaccine works by causing your body to produce its own protection (antibodies) against the disease. It is also known as a "flu shot".
+
+<h1>Data</h1>
+<h2>data description</h2>
 The first dataset consists of 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below.
 
 For all binary variables: 0 = No; 1 = Yes.
@@ -79,8 +89,8 @@ For all binary variables: 0 = No; 1 = Yes.
 33. household_children - Number of children in household, top-coded to 3.
 34. employment_industry - Type of industry respondent is employed in. Values are represented as short random character strings.
 35. employment_occupation - Type of occupation of respondent. Values are represented as short random character strings.
-36. Source
+36. <h2>Source</h2>
 37. Data is provided courtesy of the United States [ National Center for Health Statistics.](https://).
 U.S. Department of Health and Human Services (DHHS). National Center for Health Statistics. The National 2009 H1N1 Flu Survey. Hyattsville, MD: Centers for Disease Control and Prevention, 2012.
-Target
+<h1>Target</h1>
 The aim of this study is to predict how likely individuals are to receive their H1N1 flu vaccine.
