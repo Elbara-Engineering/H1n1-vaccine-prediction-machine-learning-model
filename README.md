@@ -1,3 +1,10 @@
+<h1>h1n1_vaccine prediction machine learning model</h1>
+GDSC Bootcamp Capstone final project 
+
+<h2>Team</h2>
+Elbara Elsharif 
+Gafar Amair
+Tasabeah Salah
 <h1>Overall</h1>
 
 Beginning in spring 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.
